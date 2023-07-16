@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="472acf86-e045-4496-8c93-b3bb4bbb44d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/product.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/basic.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/font/style.css" afterDir="false" />
+    <list default="true" id="472acf86-e045-4496-8c93-b3bb4bbb44d9" name="Changes" comment="중간푸쉬">
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,11 +68,35 @@
       <option name="presentableId" value="Default" />
       <updated>1689490332920</updated>
       <workItem from="1689490334189" duration="269000" />
-      <workItem from="1689490646662" duration="10061000" />
+      <workItem from="1689490646662" duration="10586000" />
     </task>
+    <task id="LOCAL-00001" summary="중간푸쉬">
+      <option name="closed" value="true" />
+      <created>1689501012155</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689501012155</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="중간푸쉬" />
+    <option name="LAST_COMMIT_MESSAGE" value="중간푸쉬" />
   </component>
 </project>

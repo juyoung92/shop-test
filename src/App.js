@@ -18,8 +18,8 @@ function App() {
           <div className='h-bot'>
             <a className='menu-category'>카테고리</a>
             <div className='menu-list'>
-              <a className='menu-item'>시발</a>
-              <a className='menu-item'>qt</a>
+              <a className='menu-item'>메뉴다</a>
+              <a className='menu-item'>메뉴다</a>
               <a className='menu-item'>메뉴다</a>
               <a className='menu-item'>메뉴다2</a>
               <a className='menu-item'>메뉴다3</a>
